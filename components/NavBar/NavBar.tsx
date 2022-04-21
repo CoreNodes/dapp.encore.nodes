@@ -62,7 +62,7 @@ const NavBar: React.FC<{ onConnect: any; isConnected: boolean }> = (props) => {
 
           <NavItem
             title="Gitbook"
-            href="https://core-nodes.gitbook.io/core-nodes/fwpsUeT7w2uhzuaFgwa6/protocol-information/background"
+            href="https://cores-nodes.gitbook.io/cores-nodes/"
             icon={<GitBook />}
             newTab={true}
           />
